@@ -10,7 +10,7 @@
         <principal>Gregory Crane</principal>
         <respStmt>
           <persName xml:id="DDD">Digital Divide Data</persName>
-          <resp>OCR-ed, corrected and encoded the text</resp>
+          <resp>Corrected and encoded hOCR output</resp>
         </respStmt>
         <respStmt>
           <persName>Greta Franzini</persName>
@@ -22,7 +22,7 @@
         </respStmt>
         <respStmt>
           <persName>Bruce Robertson</persName>
-          <resp>Technical Advisor (Mount Allison University)</resp>
+          <resp>OCR'd the text (Mount Allison University)</resp>
         </respStmt>
       </titleStmt>
       
